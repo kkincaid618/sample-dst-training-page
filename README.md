@@ -26,3 +26,6 @@ We have really smart people, do really innovative work and know really cool thin
   * Onboard to Alteryx at Evolytics
   * Onboard to Alteryx at Intuit
   * etc....
+
+## How to Submit Content:
+Words about how to do that
