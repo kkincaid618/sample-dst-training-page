@@ -2,7 +2,7 @@
 
 We have really smart people, do really innovative work and know really cool things. This is the landing page for a tool that will help us all be better together. This page contains case studies, code samples, learning resources and more!
 
-## Table of Contents:
+## Table of Contents
 * Case Studies
   * Case Study 1
   * Case Study 2
@@ -27,5 +27,5 @@ We have really smart people, do really innovative work and know really cool thin
   * Onboard to Alteryx at Intuit
   * etc....
 
-## How to Submit Content:
+## How to Submit Content
 Words about how to do that
